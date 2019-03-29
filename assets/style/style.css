@@ -1,4 +1,18 @@
+.logo{
+    background-image: url("../images/band.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:relative;
+}
 .responsive {
-  width: 25%;
-  height: auto;
+    width: 30%;
+    height: auto;
+}
+
+header{
+    padding-top: 50px;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
 }
